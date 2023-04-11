@@ -1,0 +1,77 @@
+{
+  "name": "24k$ Common Hacker 5*",
+  "symbol": "4.png",
+  "description": "Ledger users threaten legal action after hacker dumps personal data, while early Bitcoin dev misses out on $1.3B after selling too soon. MicroStrategy CEO offers to share his Bitcoin playbook with billionaire Elon Musk Official CryptoMemories NFT minted on the Solana blockchain. https://cryptomemories.io",
+  "seller_fee_basis_points": 500,
+  "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "Event (A)",
+      "value": "Ledger"
+    },
+    {
+      "trait_type": "Event (B)",
+      "value": "MicroStrategy"
+    },
+    {
+      "trait_type": "Event (C)",
+      "value": "Elon Musk"
+    },
+    {
+      "trait_type": "Event (D)",
+      "value": "HODL"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Hacker"
+    },
+    {
+      "trait_type": "CryptoCurrency",
+      "value": "Bitcoin"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2020"
+    },
+    {
+      "trait_type": "Month",
+      "value": "December"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Stars",
+      "value": "5"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "14"
+    }
+    ,
+    {
+      "trait_type": "Price in USD",
+      "value": "24000"
+    }
+  ],
+  "collection": {
+    "name": "CryptoMemories Originals",
+    "family": "CryptoMemories"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "6pk9Fcqw3bNaa85vmuf927HGr2Xn5PrzA6fLCTHqXY6t",
+        "share": 100
+      }
+    ]
+  }
+}
